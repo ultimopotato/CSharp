@@ -12,7 +12,7 @@ public class ElseDemo : MonoBehaviour
             //실행문 1
             Debug.Log("조건식이 참이면 실행문1을 실행합니다");
         }
-        else 
+        else //else문 : 아니면
         {
             //실행문 2
             Debug.Log("조건식이 거짓이면 실행문2을 실행합니다");
