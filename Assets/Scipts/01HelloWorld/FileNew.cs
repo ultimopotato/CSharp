@@ -14,7 +14,7 @@ public class FileNew : MonoBehaviour
 
     // Update is called once per frame
     //[4] Update 메서드 선언 : 프로그램 시작후 매 프레임마다 실행    //1초에 10번을 돌수도,30번을 돌수도, 60번을 돌수도, 300번을 돌수도 있다.
-    void Update() //Update라는 함수     
+    void Update() //Update라는 함수 , 매 프레임마다 돌아간다
     {
         
     }
