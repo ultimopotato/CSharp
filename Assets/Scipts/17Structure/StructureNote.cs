@@ -2,7 +2,7 @@ using UnityEngine;
 
 //[1]구조체 정의, 선언
 //고객 데이터를 관리하는 구조체
-struct UserCard
+struct UserCard          //struct(구조체)도 변수니까, 배열로 만들어서 사용할 수 있다.                                     
 {
     public string name;  //유저 이름
     public int age;      //유저 나이
